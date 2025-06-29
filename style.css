@@ -1,0 +1,143 @@
+body {
+    background-color: purple;
+}
+
+img {
+    max-width: 20%;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+}
+
+.titulo_principal {
+    text-align: center;
+    color: aliceblue;
+}
+
+h2 {
+    text-align: center;
+}
+
+.bannertema-floresta {
+    background-color: brown;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+.bannertema-floresta > h1 {
+    color: palevioletred;
+}
+
+#containertema-floresta {
+    background-color: green;
+    top: 10px;
+    width: 10px;
+    height: 20%;
+    font-size: 20px;
+    display: block;
+}
+
+h1 {
+    color: orangered;
+    text-align: center;
+}
+
+#paragrafo {
+    color: black;
+    font-size: 18px;
+}
+
+/* Estilos ajustados para as duas abas */
+.tab {
+    overflow: hidden;
+    background-color: #f1f1f1;
+    display: flex;
+    justify-content: center; /* Centraliza as abas */
+    margin: 0;
+    padding: 5px 0;
+}
+
+.tab-button {
+    background-color: inherit;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 10px 15px;
+    transition: 0.3s;
+    font-size: 16px;
+    margin: 0 5px; /* Espaçamento entre as abas */
+}
+
+.tab-button:hover {
+    background-color: #ddd;
+}
+
+.tab-button.active {
+    background-color: #ccc;
+}
+
+.tab-content {
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+#texto {
+
+font-size: 18px;
+}
+
+#text {
+
+font-size: 18px;
+}
+
+#write {
+
+font-size: 18px;
+}
+
+#escrito {
+
+font-size: 18px;
+}
+
+
+
+
+#escreve   {
+
+    font-size: 18px;
+}
+
+#gg {
+
+    font-size: 18px;
+    text-align: left;
+}
+
+
+#hh {
+
+    font-size: 18px;
+}
+
+
+
+#mmm {
+
+    font-size: 18px;
+}
+
+#fim {
+
+    font-size: 18px;
+}
+
+#novaaba {
+
+text-align: center;
+}
+
+
