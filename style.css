@@ -49,12 +49,12 @@ h1 {
     font-size: 18px;
 }
 
-/* Estilos ajustados para as duas abas */
+
 .tab {
     overflow: hidden;
     background-color: #f1f1f1;
     display: flex;
-    justify-content: center; /* Centraliza as abas */
+    justify-content: center; 
     margin: 0;
     padding: 5px 0;
 }
@@ -67,7 +67,7 @@ h1 {
     padding: 10px 15px;
     transition: 0.3s;
     font-size: 16px;
-    margin: 0 5px; /* Espaçamento entre as abas */
+    margin: 0 5px; 
 }
 
 .tab-button:hover {
@@ -139,5 +139,6 @@ font-size: 18px;
 
 text-align: center;
 }
+
 
 
